@@ -8,6 +8,8 @@ A concise, practical guide for developers. Part of the SystemCraft™ Companion 
 
 ## About this Repository
 
+<img align="right" width="180" src="preview/cover-thumbnail.png" alt="Git & GitHub Companion Guide cover">
+
 This repository is the companion to the **Git & GitHub Companion Guide** — a practical, no-fluff reference for developers who want to understand what Git is actually doing, not just memorize commands.
 
 It's free and open: a cheat sheet, quick-reference tables, worked examples, hands-on exercises, and diagrams covering the Git and GitHub workflow most developers use every day — branching, commits, Pull Requests, and merge conflicts.
@@ -66,6 +68,7 @@ git-github/
 │   └── merge-conflict-flow.md
 └── preview/
     ├── cover.png
+    ├── cover-thumbnail.png
     └── page-spread.png
 ```
 
